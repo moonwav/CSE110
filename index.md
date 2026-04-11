@@ -71,6 +71,6 @@ def fibonacci(n):
 
 
 ### 🎨 Styling Text
-**Bold text**
-_Italic text_
-~~Strikethrough~~
+- **Bold text**
+- _Italic text_
+- ~~Strikethrough~~
