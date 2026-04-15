@@ -1,7 +1,7 @@
 # 👋 Welcome to My User Page
 
 ## About Me
-Hi! My name is **William Wang**, and I am a programmer interested in *AI* and *software development*.
+Hi! My name is **William Wang**, and I am a programmer interested in *AI* and *software development*. Currently I'm a third year student at UCSD majoring in Computer Science.
 
 ---
 
@@ -20,7 +20,7 @@ My favorite programming language is **C/C++**.
 
 ## 📸 Picture
 
-![Sample Image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Image](06eac0df1ma95de56afb5fd7a3f4042d_2.JPG)
 
 ---
 
